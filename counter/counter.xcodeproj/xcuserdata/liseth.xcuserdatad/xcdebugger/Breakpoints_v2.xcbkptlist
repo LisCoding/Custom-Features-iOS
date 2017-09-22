@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "counter/ViewController.swift"
+            timestampString = "527743746.182197"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "counter.ViewController.numbers.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liseth/Desktop/iOStestPractice/counter/counter/ViewController.swift"
+                  timestampString = "527743746.542676"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "counter.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; counter.ViewController"
+                  moduleName = "counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liseth/Desktop/iOStestPractice/counter/counter/ViewController.swift"
+                  timestampString = "527743746.54443"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "counter.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;counter.ViewController&gt;"
+                  moduleName = "counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liseth/Desktop/iOStestPractice/counter/counter/ViewController.swift"
+                  timestampString = "527743746.545946"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "26">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
